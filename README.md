@@ -1,5 +1,7 @@
 # devops-capstone-project
 
+![Build Status](https://github.com/gauravdw19/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 This repository contains my DevOps Capstone Project submission for the IBM DevOps and Software Engineering Professional Certificate.
 
 The project demonstrates:
